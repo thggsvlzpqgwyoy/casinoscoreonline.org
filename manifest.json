@@ -1,0 +1,21 @@
+{
+  "short_name": "casinoscore-italy-com",
+  "name": "",
+  "description": "",
+  "icons": [
+    {
+      "src": "/images/fav.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/fav.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF"
+}
